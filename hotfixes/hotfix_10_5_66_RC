@@ -1,5 +1,0 @@
-#!/bin/bash
-
-# UI have messed up the swai file in the Debian package deployment
-# Copy the file to the correct name for now as a workaround
-cp -p /usr/lib/unifi/webapps/ROOT/app-unifi/react/js/swai.86265b3549db3c682ae7.js /usr/lib/unifi/webapps/ROOT/app-unifi/react/js/swai.b54a38110801728dad8d.js
